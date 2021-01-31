@@ -35,6 +35,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1612098184116</id>
 			<name></name>
 			<type>10</type>
@@ -81,6 +82,18 @@
 		</filter>
 		<filter>
 			<id>1612098515893</id>
+=======
+			<id>1612098307895</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1612098307918</id>
+>>>>>>> branch 'main' of https://github.com/DikaSwatans/KatalonGitTest.git
 			<name></name>
 			<type>6</type>
 			<matcher>
